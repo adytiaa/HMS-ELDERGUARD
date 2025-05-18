@@ -1,6 +1,6 @@
 # 🩺 Health Monitor Agent
 
-An intelligent health monitoring system powered by sensor data, Copernicus environmental insights, and Google Gemini LLM for early warning and natural language explanations of potential health risks.
+An AI-powered health monitoring system powered by sensor data, Copernicus environmental insights, and Google Gemini LLM for early warning and natural language explanations of potential health risks.
 
 ## 🚀 Features
 
